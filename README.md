@@ -13,10 +13,8 @@ but it can bring resident Evil 5 and metal gear games to the OBB downloder scree
 heavy titles like resident evil 5 tomb rider 2013 Borderlands 2 The witness etc use complex nsvi DRM system that need binary level patching some of them are also found using exotic extensions like GL_NV_bindless textures and Tegra features at hardware level that doesn't mean they won't work in future I'm actively be working on patching game's one by one 
 so it will take time 
 
-# Minimum Requirements
-the minimum requirement will depend on what games you want to run 
+# Minimum Requirements a device need to run this layer 
 
-but for using this shim 
 OpenGL ES 3.2 support is mandatory 
 
 You need to have controller to play games (it's temporary touch screen support is in list i be implementing it in future)
